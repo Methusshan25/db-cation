@@ -9,7 +9,7 @@
                 </div>
             </v-col>
             <v-col cols="12" md="5" class="kv__image-wrapper pa-0">
-                <img class="kv__image" src="../assets/img/keyvisual-bahn-asset.png" alt="">
+                <img class="kv__image" src="../assets/img/keyvisual-bahn.jpg" alt="">
             </v-col>
         </v-row>
     </v-container>

@@ -1,2 +1,6 @@
 // Zentraler Einstiegspunkt für globale SCSS-Dateien.
 @use 'keyvisual';
+
+body{
+    background: url("../assets/img/background-image.jpg");
+}
